@@ -74,6 +74,7 @@ roslaunch launch bird_alert_start.launch
   <img src="./image/SADOL8.jpg" alt="saedol8" style="width: 49%;"/>
 </div>
 
-## 시연 영상
+## 시연 영상(youtube)
 [![시연 영상](https://img.youtube.com/vi/gFSqjKEHom4/0.jpg)](https://youtu.be/gFSqjKEHom4?feature=shared)
+
 
